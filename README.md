@@ -31,7 +31,7 @@ Implementation:
 
 - Copy the modules_footer_scroll_to_top.json into ClicShopping/Work/Cache/Github (manual installation)
 
-Marketplace link : https://www.clicshopping.org/forum/files/file/52-modules-footer-scroll-to-top/
+Marketplace link : https://www.clicshopping.org/forum/files/file/46-modules-footer-scroll-to-top/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_footer_scroll_to_top/blob/master/ModuleInfosJson/image.png)
 
